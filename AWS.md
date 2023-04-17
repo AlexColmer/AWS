@@ -161,3 +161,26 @@ Used to find out which resources are shared externally.
 - Enforce PCI Complaince by explicitly disabling services 
 
 
+# Aws DataSync
+- move large amounts of data from on prem to aws 
+- can synchronize with s3, eFS, FSx
+- Replication tasks cna be scheduled hourly, daily or weekly
+- The repication tasks are incremental after the first full load
+
+# Application discovery service and applicaiton migration 
+- plan migration projects by gathering information about on prem data cneters
+- server utilisation data and dependency mapping are important for migration 
+- agentelss discovery - VM inventory, config, and performance history 
+- agent-based Dicovery - System config, system performance, running process, and details of the network connections between systems
+- result data can be viewed within aws migration hub
+
+## Aws application migration service (MGN)
+- lift-and-shift (rehost) solution which simplify migration applications to AWS
+- Converts your physical, virtual and cloud based servers to run nativly on AWS
+
+- APN = AWS Partner Network
+- APN  technology Partners: provide hardwear, connectivity, and softwear
+- APN Consulting Partners: porfessional services firm to help build on AWS
+- APN Training partners: find who can help you leanr AWS
+- AWS Competency Program: AWS competencies are granted to APN Partners who demonstrated technical proficiency and proven customer sucess in specialized solution areas. 
+- AWS Navigate Program: help Partners become better partners
